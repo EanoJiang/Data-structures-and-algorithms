@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hello-栈与队列", "Hello-栈与队列", "{EE8FFCC3-6C6B-82F9-C0D2-BAB9DA05711F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "栈", "栈", "{ADD71477-2B67-D0DA-1F18-3ECC41F9C1CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "栈的操作", "Hello-栈与队列\栈\栈的操作\栈的操作.csproj", "{841BEDB2-B8FB-2293-7A43-AC6612A58770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{841BEDB2-B8FB-2293-7A43-AC6612A58770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841BEDB2-B8FB-2293-7A43-AC6612A58770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841BEDB2-B8FB-2293-7A43-AC6612A58770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841BEDB2-B8FB-2293-7A43-AC6612A58770}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ADD71477-2B67-D0DA-1F18-3ECC41F9C1CA} = {EE8FFCC3-6C6B-82F9-C0D2-BAB9DA05711F}
+		{841BEDB2-B8FB-2293-7A43-AC6612A58770} = {ADD71477-2B67-D0DA-1F18-3ECC41F9C1CA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC5D4873-8F13-4056-8C81-4FB1500FD195}
+	EndGlobalSection
+EndGlobal
